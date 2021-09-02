@@ -45,7 +45,7 @@ export default function Form() {
       paddingHorizontal:16,
       fontSize:16,
       color:'#ffffff',
-      marginVertical:10      
+      marginVertical:5      
     },
     btnTxt:{
       fontSize:16,
